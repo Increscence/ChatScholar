@@ -15,7 +15,7 @@
 酷学术智能在线辅助工具是专业的自主学习和学术研究辅助工具，该工具可以实现智能化的文献检索、即时翻译服务以及高效的引用管理功能适用于多种学习和研究应用场景。
 
 以下为视频介绍：
-https://github.com/Increscence/ChatScholar/blob/main/ChatScholar-video.mp4
+ http://www.newacademic.online/ailogo/ChatScholar-%E5%8E%8B%E7%BC%A9%E7%89%88.mp4
 
 
 ## 安装
@@ -57,4 +57,4 @@ https://github.com/Increscence/ChatScholar/blob/main/ChatScholar-video.mp4
 ## 如何使用
 [使用教程](httpaddons.dic.coolabout)
 ## 问题反馈
-[httpsvika.cnshareshrG9g2RWTTkdpmULQgrF](httpsvika.cnshareshrG9g2RWTTkdpmULQgrF)
+https://vika.cn/share/shrG9g2RWTTkdpmULQgrF
