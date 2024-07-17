@@ -32,7 +32,6 @@ https://github.com/Increscence/ChatScholar/blob/main/ChatScholar-video.mp4
 
 ## 功能说明
 
-![容器 44@1x.png](httpspicsum.photos300)
 <img
   alt="logo"
   src="./容器 44@1x.png"
