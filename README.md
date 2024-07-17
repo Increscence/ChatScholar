@@ -56,5 +56,5 @@ https://github.com/Increscence/ChatScholar/blob/main/ChatScholar-video.mp4
 
 ## 如何使用
 [使用教程](httpaddons.dic.coolabout)
-### 问题反馈
+## 问题反馈
 [httpsvika.cnshareshrG9g2RWTTkdpmULQgrF](httpsvika.cnshareshrG9g2RWTTkdpmULQgrF)
